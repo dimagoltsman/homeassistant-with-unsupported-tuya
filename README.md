@@ -1,4 +1,4 @@
-# How to use almost any tuya "cloud unsupported" device with home assistant
+# How to use almost any tuya "cloud unsupported" device with home assistant (Without flashing tasmota)
 
 
 Recently i have purchased a smart kettle named Profi Cook PC-WKS 1167G (picture below)
