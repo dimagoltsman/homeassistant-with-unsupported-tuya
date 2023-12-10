@@ -7,6 +7,8 @@ Unfortunatly, this device does not support tuya cloud therefore it cant be used 
 ![alt proficook](https://github.com/dimagoltsman/homeassistant-with-unsupported-tuya/blob/master/kettle.png?raw=true)
 ![alt proficook](https://github.com/dimagoltsman/homeassistant-with-unsupported-tuya/blob/master/mainscreen.jpeg?raw=true)
 
+## First, if you havent done it already,[ install the tuya integratuin to HA](https://www.home-assistant.io/integrations/tuya/)
+
 
 ## The simplest solution Ever!
 
